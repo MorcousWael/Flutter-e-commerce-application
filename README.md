@@ -1,4 +1,4 @@
-# flutter_message_app_ui
+# E-commerce Application
 
 A new Flutter project.
 
